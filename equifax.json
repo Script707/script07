@@ -1,1 +1,174 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "facebook_banner": "980232036684690_980232586684635",
+        "facebook_inter": "980232036684690_980232783351282",
+        "facebook_native": "980232036684690_980232916684602",
+        "ironsource_api": "000000",
+        "max_banner": "000000",
+        "max_inter": "000000",
+        "max_native": "000000",
+        "unityTest": false,
+        "unityGameID": "000000",
+        "unityBanner": "000000",
+        "unityInter": "000000",
+        "intersitial_click_activites": 5,
+        "intersitial_click_list": 5
 
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "What is the Equifax app?",
+                "image": "https://ioiioi.web.app/equifax/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "The Equifax app is a mobile application that provides users with access to their credit report and credit score, as well as tools to help them manage their credit. The app is offered by Equifax, one of the three major credit reporting agencies in the United States, and allows users to monitor their credit profile in real-time. The Equifax app also offers features such as credit monitoring, identity theft protection, and personalized financial insights to help users understand and improve their credit health.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "How can the Equifax app help me monitor my credit score?",
+                "image": "https://ioiioi.web.app/equifax/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "The Equifax app can help you monitor your credit score by providing you with real-time access to your Equifax credit report and credit score. You can view your credit score and report at any time, and the app will also alert you to changes in your credit profile, such as a new account opening or a late payment. Additionally, the Equifax app offers personalized insights and recommendations to help you improve your credit health, such as tips for paying down debt or improving your credit utilization ratio. By using the Equifax app, you can stay on top of your credit score and take steps to improve it over time.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Is the Equifax app secure?",
+                "image": "https://ioiioi.web.app/equifax/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "Yes, the Equifax app is designed to be secure and protect your personal information. Equifax takes several steps to ensure the security of its app, including using encryption to protect data in transit and at rest, requiring multi-factor authentication for login, and regularly monitoring for potential security threats. The app also offers features like credit lock and fraud alerts to help protect against identity theft. However, it's important to keep in mind that no system can guarantee 100% security, so it's always a good idea to practice good cybersecurity hygiene, such as using strong passwords and being cautious about sharing personal information online.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Are there any fees associated with using the Equifax app?",
+                "image": "https://ioiioi.web.app/equifax/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "The Equifax app itself is free to download and use, but some of its features may require a paid subscription. For example, the app offers a credit monitoring service that sends you alerts when there are changes to your credit profile, but this service is only available through a paid subscription. Similarly, the app offers identity theft protection features, such as credit lock and dark web scanning, which may require a paid subscription. However, you can access your Equifax credit report and credit score for free through the app once a year, as mandated by federal law. Overall, the Equifax app is designed to be accessible to everyone, regardless of their budget or financial situation.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Can I dispute errors on my credit report through the Equifax app?",
+                "image": "https://ioiioi.web.app/equifax/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "Yes, you can dispute errors on your credit report through the Equifax app. If you notice an error on your Equifax credit report, such as an incorrect account balance or a fraudulent account, you can file a dispute directly through the app. The app will guide you through the dispute process and provide you with updates on the status of your dispute. It's important to note that you should only dispute errors that are legitimate mistakes or inaccuracies, and not simply negative information that you don't want on your credit report. Disputing accurate negative information is unlikely to be successful and could potentially harm your credit score.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Conclusion",
+                "image": "https://ioiioi.web.app/equifax/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "In conclusion, the Equifax app is a useful tool for monitoring your credit score and credit report. It provides real-time access to your Equifax credit report and score, as well as personalized insights and recommendations to help you improve your credit health. While some of its features require a paid subscription, the app itself is free to download and use. Additionally, the Equifax app is designed to be secure, with encryption and multi-factor authentication to protect your personal information. Finally, if you notice any errors on your credit report, you can use the app to dispute them and get them corrected. Overall, the Equifax app is a valuable resource for anyone looking to stay on top of their credit score and financial health.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
