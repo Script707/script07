@@ -6,25 +6,25 @@
         "NativeAd": "facebook",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "980232036684690_980232586684635",
-        "facebook_inter": "980232036684690_980232783351282",
-        "facebook_native": "980232036684690_980232916684602",
-        "intersitial_click_activites": 5,
-        "intersitial_click_list": 5
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "0000000",
+        "facebook_inter": "0000000",
+        "facebook_native": "0000000",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
 
     },
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
+        "btn_more_url": "https://smrturl.co/ea4870d",
         "items_data": [{
-                "title": "What is the Equifax app?",
-                "image": "https://ioiioi.web.app/equifax/1.webp",
+                "title": "How Can I Check Credit Score?",
+                "image": "https://m-imag.web.app/equifax/1.webp",
                 "title_size": "25",
 				"detail": [{
 					"image": "",
-					"text": "The Equifax app is a mobile application that provides users with access to their credit report and credit score, as well as tools to help them manage their credit. The app is offered by Equifax, one of the three major credit reporting agencies in the United States, and allows users to monitor their credit profile in real-time. The Equifax app also offers features such as credit monitoring, identity theft protection, and personalized financial insights to help users understand and improve their credit health.",
+					"text": "1. Visit the Equifax Website: Go to the official Equifax website, which is www.equifax.com. \n \n 2.Create an Account: If you don't already have an account, you'll need to create one. You'll be asked to provide personal information such as your name, address, Social Security number, and other identifying details. \n \n 3.Verify Your Identity: Equifax will ask you to verify your identity to ensure that you are the person requesting the credit report. This may involve answering questions about your financial history or providing additional documentation. \n \n 4.Choose a Credit Report Product: Equifax offers various credit report products, including free and paid options. You can typically access one free credit report per year through AnnualCreditReport.com, which is authorized by federal law. However, Equifax also offers credit monitoring services that provide ongoing access to your credit report and scores. \n \n 5.View Your Credit Report: Once your identity is verified and you've selected a credit report product, you can view your Equifax credit report and credit score. Review the information for accuracy and look for any discrepancies or errors. \n \n 6.Understand Your Credit Score: Equifax will provide you with your credit score, which is typically a three-digit number. This score represents your creditworthiness and is used by lenders to assess your risk as a borrower. The higher your score, the better your credit is considered. \n \n 7.Review and Dispute Errors: If you find any errors or inaccuracies on your Equifax credit report, you have the right to dispute them. Equifax provides a process for disputing information directly on their website. \n \n 8.Monitor Your Credit: It's a good practice to regularly monitor your credit report from Equifax and the other two major credit bureaus (Experian and TransUnion). This helps you stay informed about your credit status and address any issues promptly. \n \n Remember that you can check your credit report from each of the three major credit bureaus (Equifax, Experian, and TransUnion) for free once a year through AnnualCreditReport.com. Additionally, some credit card issuers and financial institutions provide free access to credit scores as part of their services. \n \n Monitoring your credit is important for financial health, as it can help you detect identity theft, track your progress in building good credit, and ensure the accuracy of your credit history.",
 					"native": true,
 					"cpa_title": "",
 					"cpa_url": "000000"
@@ -46,7 +46,7 @@
 				]
             }, {
                 "title": "How can the Equifax app help me monitor my credit score?",
-                "image": "https://ioiioi.web.app/equifax/2.webp",
+                "image": "https://m-imag.web.app/equifax/2.webp",
                 "title_size": "25",
  				"detail": [{
 					"image": "",
@@ -72,11 +72,11 @@
 				]
             }, {
                 "title": "Is the Equifax app secure?",
-                "image": "https://ioiioi.web.app/equifax/3.webp",
+                "image": "https://m-imag.web.app/equifax/3.webp",
                 "title_size": "25",
       			"detail": [{
 					"image": "",
-					"text": "Yes, the Equifax app is designed to be secure and protect your personal information. Equifax takes several steps to ensure the security of its app, including using encryption to protect data in transit and at rest, requiring multi-factor authentication for login, and regularly monitoring for potential security threats. The app also offers features like credit lock and fraud alerts to help protect against identity theft. However, it's important to keep in mind that no system can guarantee 100% security, so it's always a good idea to practice good cybersecurity hygiene, such as using strong passwords and being cautious about sharing personal information online.",
+					"text": "The Equifax app is generally considered to be secure, but it is important to take steps to protect your personal information, such as using strong passwords and not sharing your personal information with unauthorized people. \n \n  Here are some tips for using the Equifax app safely: \n \n Only download the app from the official Equifax website or app store. \n \n Keep your app up to date with the latest security patches. \n \n Use a strong password and do not share it with anyone. \n \n Be careful about what information you share in the app. \n \n If you think your account has been compromised, contact Equifax immediately.",
 					"native": true,
 					"cpa_title": "",
 					"cpa_url": "000000"
@@ -98,7 +98,7 @@
 				]
             }, {
                 "title": "Are there any fees associated with using the Equifax app?",
-                "image": "https://ioiioi.web.app/equifax/4.webp",
+                "image": "https://m-imag.web.app/equifax/4.webp",
                 "title_size": "25",
           		"detail": [{
 					"image": "",
@@ -123,12 +123,12 @@
 				}
 				]
             }, {
-                "title": "Can I dispute errors on my credit report through the Equifax app?",
-                "image": "https://ioiioi.web.app/equifax/5.webp",
+                "title": "What is Equifax?",
+                "image": "https://m-imag.web.app/equifax/5.webp",
                 "title_size": "25",
              	"detail": [{
 					"image": "",
-					"text": "Yes, you can dispute errors on your credit report through the Equifax app. If you notice an error on your Equifax credit report, such as an incorrect account balance or a fraudulent account, you can file a dispute directly through the app. The app will guide you through the dispute process and provide you with updates on the status of your dispute. It's important to note that you should only dispute errors that are legitimate mistakes or inaccuracies, and not simply negative information that you don't want on your credit report. Disputing accurate negative information is unlikely to be successful and could potentially harm your credit score.",
+					"text": "Equifax is a credit reporting agency that collects and maintains information on individual consumers and businesses. It provides credit reports to lenders and other businesses, and offers credit monitoring and identity theft protection services.",
 					"native": true,
 					"cpa_title": "",
 					"cpa_url": "000000"
@@ -150,7 +150,7 @@
 				]
             }, {
                 "title": "Conclusion",
-                "image": "https://ioiioi.web.app/equifax/6.webp",
+                "image": "https://m-imag.web.app/equifax/6.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
