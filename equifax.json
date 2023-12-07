@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "facebook",
         "NativeAd": "facebook",
@@ -17,7 +17,7 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://smrturl.co/f3e9dad",
+        "btn_more_url": "www.google.com",
         "items_data": [{
                 "title": "How Can I Check Credit Score?",
                 "image": "https://m-imag.web.app/equifax/1.webp",
